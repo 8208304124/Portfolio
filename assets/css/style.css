@@ -204,6 +204,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/hero-bg.jpg") bottom center;
   background-size: 1000px;
   background-position: 85%;
+  background-repeat: no-repeat;
  
 }
 #hero:before {
